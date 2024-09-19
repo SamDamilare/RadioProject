@@ -1,4 +1,3 @@
-import React from "react";
 import { BiSolidPhoneCall } from "react-icons/bi";
 
 const ContactDetails = () => {

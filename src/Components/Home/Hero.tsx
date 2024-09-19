@@ -1,4 +1,3 @@
-import React from "react";
 import { Image, Carousel } from "antd";
 
 const heroData = [

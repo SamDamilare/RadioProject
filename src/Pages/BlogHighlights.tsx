@@ -1,4 +1,3 @@
-import React from "react";
 import BlogDetails from "../Components/BlogHighlights/BlogDetails";
 import Navbar from "../Components/Navigation/Navbar";
 import BlogImage from "../Components/BlogHighlights/BlogImage";

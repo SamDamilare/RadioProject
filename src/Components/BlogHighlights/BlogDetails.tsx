@@ -1,5 +1,3 @@
-import React from "react";
-
 const BlogDetails = () => {
   return (
     <div className="mr-[80px] ml-[80px] mt-14">

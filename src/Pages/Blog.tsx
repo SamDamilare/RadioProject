@@ -1,4 +1,3 @@
-import React from "react";
 import BlogPills from "../Components/BlogHighlights/Blog/BlogPills";
 import BlogTab from "../Components/Home/BlogTab";
 import BlogPageNav from "../Components/BlogHighlights/Blog/BlogPageNav";

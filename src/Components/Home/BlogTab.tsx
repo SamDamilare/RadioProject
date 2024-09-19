@@ -1,4 +1,3 @@
-import React from "react";
 import { Card, Image } from "antd";
 import { blogTabData } from "../utilities/data";
 import { LuArrowUpRight } from "react-icons/lu";

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Pills = () => {
   return (
     <div className=" flex justify-center my-6">

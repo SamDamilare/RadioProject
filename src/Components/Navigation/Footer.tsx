@@ -1,4 +1,3 @@
-import React from "react";
 import { RiInstagramFill } from "react-icons/ri";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaFacebookF } from "react-icons/fa";
@@ -6,7 +5,7 @@ import { FaFacebookF } from "react-icons/fa";
 const Footer = () => {
   return (
     <div
-      className="w-full bg-[#272727] items-center py-6"
+      className="w-full bg-[#272727] items-center py-6 mt-16"
       style={{ display: "flex", flexDirection: "column" }}
     >
       <div className="my-4 mt-4">

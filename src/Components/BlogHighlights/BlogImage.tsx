@@ -1,5 +1,3 @@
-import React from "react";
-
 const BlogImage = () => {
   return (
     <div className="mt-8 mr-[80px] ml-[80px]">

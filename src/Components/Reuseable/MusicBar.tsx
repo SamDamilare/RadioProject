@@ -1,4 +1,3 @@
-import React from "react";
 import { IoMdPlay } from "react-icons/io";
 import { IoPlayForwardSharp } from "react-icons/io5";
 import { IoPlayBackSharp } from "react-icons/io5";

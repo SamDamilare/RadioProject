@@ -1,4 +1,3 @@
-import React from "react";
 import ScheduleGrid from "../Components/Schedule/ScheduleGrid";
 import Shows from "../Components/Home/Shows";
 import Podcast from "../Components/Home/Podcast";

@@ -1,5 +1,3 @@
-import React from "react";
-
 const BlogPageNav = () => {
   return (
     <div className="flex justify-end mx-[80px] gap-[5px] my-4">

@@ -1,4 +1,3 @@
-import { React } from "react";
 import CardColumn from "../Reuseable/CardColumn";
 
 function ScheduleGrid() {

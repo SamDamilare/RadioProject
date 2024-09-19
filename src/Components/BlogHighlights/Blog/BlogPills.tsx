@@ -1,4 +1,3 @@
-import React from "react";
 import Pills from "../../Reuseable/Pills";
 
 const BlogPills = () => {

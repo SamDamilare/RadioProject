@@ -1,4 +1,3 @@
-import React from "react";
 import { Image, Card } from "antd"; // Assuming you're using Ant Design
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
