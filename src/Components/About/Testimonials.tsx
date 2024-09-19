@@ -1,4 +1,3 @@
-import React from "react";
 import { testimonyData } from "../utilities/data";
 
 const Testimonials = () => {

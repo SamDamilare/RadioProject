@@ -62,16 +62,13 @@ const ContactForm = () => {
 
         {/* Third Row */}
         <div className="mt-8">
-          <label
-            for="message"
-            class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
-          >
+          <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
             Message *
           </label>
           <textarea
             id="message"
-            rows="8"
-            class="block p-4 w-full text-sm text-gray-900 bg-white rounded-xl border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+            rows={8}
+            className="block p-4 w-full text-sm text-gray-900 bg-white rounded-xl border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
             placeholder="Hello there, I would like to talk about how to..."
           ></textarea>
         </div>

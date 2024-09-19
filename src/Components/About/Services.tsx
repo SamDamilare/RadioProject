@@ -1,4 +1,3 @@
-import React from "react";
 import { serviceData } from "../utilities/data";
 
 const Services = () => {
