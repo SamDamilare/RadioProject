@@ -1,0 +1,4 @@
+.carousel-item {
+  display: flex; /* Ensure flexbox for gap to work */
+  gap: "10px";
+}
