@@ -12,7 +12,7 @@ const BlogPost = () => {
           className="border-2 rounded-md w-[700px] mt-4 p-2"
           name=""
           id=""
-          rows="3"
+          rows={3}
           placeholder="Value"
         ></textarea>
         <div>
