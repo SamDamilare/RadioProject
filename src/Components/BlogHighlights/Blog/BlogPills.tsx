@@ -4,8 +4,8 @@ const BlogPills = () => {
   return (
     <div>
       <Pills />
-      <Pills />
-      <Pills />
+      {/* <Pills />
+      <Pills /> */}
     </div>
   );
 };

@@ -4,6 +4,7 @@ import About from "./Pages/About";
 import Blog from "./Pages/Blog";
 import Schedule from "./Pages/Schedule";
 import Contact from "./Pages/Contact";
+import BlogDetails from "./Components/BlogHighlights/BlogDetails";
 
 export default [
   {
@@ -20,6 +21,11 @@ export default [
     path: "/blog",
     element: <Blog />,
     name: "Blog",
+  },
+  {
+    path: "/blog/:id",
+    element: <BlogDetails />,
+    name: "BlogDetails",
   },
   {
     path: "/schedule",

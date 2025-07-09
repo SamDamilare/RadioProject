@@ -1,4 +1,5 @@
 import BlogPills from "../Components/BlogHighlights/Blog/BlogPills";
+
 import BlogTab from "../Components/Home/BlogTab";
 import BlogPageNav from "../Components/BlogHighlights/Blog/BlogPageNav";
 import Newsletter from "../Components/Home/Newsletter";
@@ -11,6 +12,7 @@ const Blog = () => {
     <div>
       <Navbar />
       <BlogPills />
+
       <BlogTab />
       <BlogPageNav />
       <Newsletter />

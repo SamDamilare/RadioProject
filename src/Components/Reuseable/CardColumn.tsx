@@ -1,16 +1,15 @@
-import ScheduleCard from "./ScheduleCard";
+// import ScheduleCard from "./ScheduleCard";
 import DailyCards from "./DailyCards";
+
+import HoverExpandCards from "./HoverExpandCards";
 
 const CardColumn = () => {
   return (
-    <div className="grid grid-cols-7 gap-[12px]">
+    <div className="flex items-center mx-0">
       <DailyCards />
-      <ScheduleCard />
-      <ScheduleCard />
-      <ScheduleCard />
-      <ScheduleCard />
-      <ScheduleCard />
-      <ScheduleCard />
+      <div>
+        <HoverExpandCards />
+      </div>
     </div>
   );
 };

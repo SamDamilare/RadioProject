@@ -1,4 +1,3 @@
-
 import ContactDetails from "../Components/Contact/ContactDetails";
 import ContactForm from "../Components/Contact/ContactForm";
 import Navbar from "../Components/Navigation/Navbar";
